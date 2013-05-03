@@ -10,18 +10,18 @@ Vagrant: 1.2.2 (http://downloads.vagrantup.com/)
 
 First time
 -----------
-git clone git@github.com:vinodpandey/dev-box.git
+git clone git@github.com:vinodpandey/dev-box.git  
 vagrant up
 
 Suspend/Resume VM
 -----------------
-vagrant suspend
-vagrant resume
+vagrant suspend  
+vagrant resume  
 
 Shutdown/destroy
 ----------------
-vagrant halt
-vagrant destroy
+vagrant halt  
+vagrant destroy  
 
 
 

@@ -3,6 +3,16 @@ dev-box
 
 Dev box using vagrant
 
+What it includes
+----------------
+Alternate python 2.7.3
+Apache + mod_wsgi
+MySQL
+phpmyAdmin
+vim with python support
+git
+
+
 Prerequisite
 -------------
 Virtual box: 4.2.8 (https://www.virtualbox.org/wiki/Download_Old_Builds)  
